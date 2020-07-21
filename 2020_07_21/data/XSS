@@ -1,3 +1,7 @@
-&lt;script&gt;
-location.href = "naver.com";
-&lt;/script&gt;
+this is dirty.
+
+<script>
+alert('merong');
+</script>
+
+END.
